@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/top-view-statistics-presentation-with-arrow_23-2149023752.jpg?ga=GA1.1.2128082641.1720415790&semt=ais_user);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h4{
+    color: rgb(47, 23, 69);
+    font-weight: 300;
+}
+.box2{
+    border-radius: 0.5em;
+    margin: 5% 70% 5% 10%;
+    padding: 10% 20% 10% 10%;
+}
+.box2{
+    border-style: double;
+    border: 2px, black;
+}
+.box2 button{
+    border: 20%;
+    padding: 2px;
+}

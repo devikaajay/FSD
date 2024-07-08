@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/watercolor-blue-abstract-winter-background_23-2149147679.jpg?ga=GA1.1.2128082641.1720415790&semt=ais_user;);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h4{
+    color: rgb(79, 56, 101);
+    font-weight: 300;
+}
+.box1{
+    border: 2px solid red;
+    /* margin-top: 30%;
+    margin-right: 2px;
+    margin-bottom: 4px;
+    margin-left: 10%; */
+    margin: 10%;
+    padding: 10%;
+}
